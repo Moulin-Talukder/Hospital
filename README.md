@@ -10,7 +10,6 @@ Hospital Management System is a comprehensive platform developed with PHP and La
 - [Admin Features](#admin-features)
 - [Installation](#installation)
 - [Support](#support)
-- [License](#license)
 
 ## Overview
 
